@@ -1,7 +1,5 @@
 # Route Manager
-#### The route manager is designed for check/update/fix a path, for the user or for the program.
-
-<br>
+#### The route manager is designed for check/update/fix a path, for both user and program.
 
 # Properties
 
